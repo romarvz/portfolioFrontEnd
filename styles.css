@@ -4,7 +4,7 @@
 /* Estilos generales del body de la página */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f7bce5;
+    background-color: #e148b3;
     margin: 0;
     padding: 0;
     color: #000000; /* Texto en negro */
@@ -51,7 +51,7 @@ th, td {
 }
 
 th {
-    background-color: #dfe9f3; /* otro tono pastel suave */
+    background-color: #f7bce5; /* otro tono pastel suave */
 }
 
 /* Formulario */
